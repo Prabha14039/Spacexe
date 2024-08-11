@@ -1,0 +1,21 @@
+add in this format
+
+anotation
+|
+|--train
+|   |
+|   |-image1.json
+|   |-image2.json
+|   |-...
+|
+|--test
+|   |
+|   |-image1.json
+|   |-image2.json
+|   |-...
+|
+|--val
+|   |
+|   |-image1.json
+|   |-image2.json
+|   |-...

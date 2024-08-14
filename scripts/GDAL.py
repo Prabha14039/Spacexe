@@ -39,8 +39,6 @@ for axis in axis_arrays:
 # Parameters (update these based on your image's specifications)
 binary_file_path = 'ch2_ohr_ncp_20230820T0559124374_d_img_n18.img'
 tiff_file_path = 'output_file.tif'
-width = 12000   # Replace with the actual width of your image
-height = 93692  # Replace with the actual height of your image
 dtype = np.uint8  # Data type (e.g., np.uint8 for 8-bit grayscale image)
 pixel_size = 0.26  # Pixel resolution in meters (update as needed)
 

@@ -2,7 +2,7 @@ import rasterio
 import matplotlib.pyplot as plt
 
 # Path to your GeoTIFF file
-geo_tiff_path = 'output_file.tif'
+geo_tiff_path = 'annotated_image/piece_3_annotated.tif'
 
 # Open the GeoTIFF file
 with rasterio.open(geo_tiff_path) as src:
